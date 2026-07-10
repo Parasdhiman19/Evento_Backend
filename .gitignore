@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Databases
+*.sqlite3
+
+# Environment variables / secrets
+.env
